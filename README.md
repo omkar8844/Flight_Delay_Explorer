@@ -1,2 +1,1 @@
-# Project Name
-## Flight Delay Explorer
+# Flight Delay Explorer
